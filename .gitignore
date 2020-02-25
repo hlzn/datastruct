@@ -1,0 +1,7 @@
+data/leipzig1m.txt
+data/leipzig100k.txt
+data/leipzig300k.txt
+algorithms/triplets/triplets/bin/Debug/netcoreapp3.1/triplets.dll
+algorithms/triplets/triplets/bin/Debug/netcoreapp3.1/triplets.exe
+algorithms/triplets/triplets/obj/Debug/netcoreapp3.1/triplets.csprojAssemblyReference.cache
+algorithms/triplets/triplets/obj/Debug/netcoreapp3.1/triplets.dll
