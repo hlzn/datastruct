@@ -1,0 +1,4 @@
+packages to add for nunit
+dotnet add package NUnit --version 3.12.0
+dotnet add package Microsoft.NET.Test.Sdk --version 16.5.0
+dotnet add package NUnit3TestAdapter --version 3.16.1

@@ -60,10 +60,16 @@ namespace tests
             RunTestsForSortAlgorithm(sorting.Insertion.Insert);
         }
 
+        // [Test]
+        // public void Recursion()
+        // {
+        //     Assert.AreEqual(sorting.Recursion.RecurseByIteration(15), sorting.Recursion.RecurseByRecursion(15));
+        // }
+
         [Test]
-        public void Recursion()
+        public void ShellSort_ValidInput_SortedInput()
         {
-            Assert.AreEqual(sorting.Recursion.RecurseByIteration(15), sorting.Recursion.RecurseByRecursion(15));
+            RunTestsForSortAlgorithm(sorting.Shelling.Shell);
         }
     }
 }
