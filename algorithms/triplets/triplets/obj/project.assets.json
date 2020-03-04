@@ -8,23 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\hlzn\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\hugo.lozano\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\lab\\datastruct\\algorithms\\triplets\\triplets\\triplets.csproj",
+      "projectUniqueName": "C:\\Dev\\Lab\\dotnet\\datastruct\\algorithms\\triplets\\triplets\\triplets.csproj",
       "projectName": "triplets",
-      "projectPath": "C:\\Dev\\lab\\datastruct\\algorithms\\triplets\\triplets\\triplets.csproj",
-      "packagesPath": "C:\\Users\\hlzn\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\lab\\datastruct\\algorithms\\triplets\\triplets\\obj\\",
+      "projectPath": "C:\\Dev\\Lab\\dotnet\\datastruct\\algorithms\\triplets\\triplets\\triplets.csproj",
+      "packagesPath": "C:\\Users\\hugo.lozano\\.nuget\\packages\\",
+      "outputPath": "C:\\Dev\\Lab\\dotnet\\datastruct\\algorithms\\triplets\\triplets\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\hlzn\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\hugo.lozano\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -32,7 +28,8 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.sortech.io/nuget": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
@@ -62,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
       }
     }
   }

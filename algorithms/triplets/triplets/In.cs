@@ -3,7 +3,7 @@ using System.IO;
 
 public class In
 {
-    private static string _fileLocations = "C:\\Dev\\lab\\datastruct\\data\\";
+    private static string _fileLocations = "C:\\Dev\\Lab\\dotnet\\datastruct\\data\\";
     public static IEnumerable<int> ReadInts(string fileName)
     {
         string filePath = _fileLocations + fileName;

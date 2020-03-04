@@ -9,3 +9,14 @@ C:\Dev\lab\datastruct\algorithms\triplets\triplets\obj\Debug\netcoreapp3.1\tripl
 C:\Dev\lab\datastruct\algorithms\triplets\triplets\obj\Debug\netcoreapp3.1\triplets.AssemblyInfo.cs
 C:\Dev\lab\datastruct\algorithms\triplets\triplets\obj\Debug\netcoreapp3.1\triplets.dll
 C:\Dev\lab\datastruct\algorithms\triplets\triplets\obj\Debug\netcoreapp3.1\triplets.pdb
+C:\Dev\Lab\dotnet\datastruct\algorithms\triplets\triplets\bin\Debug\netcoreapp3.1\triplets.exe
+C:\Dev\Lab\dotnet\datastruct\algorithms\triplets\triplets\bin\Debug\netcoreapp3.1\triplets.deps.json
+C:\Dev\Lab\dotnet\datastruct\algorithms\triplets\triplets\bin\Debug\netcoreapp3.1\triplets.runtimeconfig.json
+C:\Dev\Lab\dotnet\datastruct\algorithms\triplets\triplets\bin\Debug\netcoreapp3.1\triplets.runtimeconfig.dev.json
+C:\Dev\Lab\dotnet\datastruct\algorithms\triplets\triplets\bin\Debug\netcoreapp3.1\triplets.dll
+C:\Dev\Lab\dotnet\datastruct\algorithms\triplets\triplets\bin\Debug\netcoreapp3.1\triplets.pdb
+C:\Dev\Lab\dotnet\datastruct\algorithms\triplets\triplets\obj\Debug\netcoreapp3.1\triplets.csprojAssemblyReference.cache
+C:\Dev\Lab\dotnet\datastruct\algorithms\triplets\triplets\obj\Debug\netcoreapp3.1\triplets.AssemblyInfoInputs.cache
+C:\Dev\Lab\dotnet\datastruct\algorithms\triplets\triplets\obj\Debug\netcoreapp3.1\triplets.AssemblyInfo.cs
+C:\Dev\Lab\dotnet\datastruct\algorithms\triplets\triplets\obj\Debug\netcoreapp3.1\triplets.dll
+C:\Dev\Lab\dotnet\datastruct\algorithms\triplets\triplets\obj\Debug\netcoreapp3.1\triplets.pdb
