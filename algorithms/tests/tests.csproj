@@ -18,6 +18,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\sorting\sorting.csproj" />
+    <ProjectReference Include="..\lists\lists.csproj" />
+    <ProjectReference Include="..\stacks\stacks.csproj" />
   </ItemGroup>
 
 </Project>

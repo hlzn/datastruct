@@ -10,9 +10,9 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/algorithms/triplets/triplets/bin/Debug/netcoreapp3.1/triplets.dll",
+            "program": "${workspaceFolder}/algorithms/stacks/bin/Debug/netcoreapp3.1/stacks.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/algorithms/triplets/triplets",
+            "cwd": "${workspaceFolder}/algorithms/stacks",
             // For more information about the 'console' field, see https://aka.ms/VSCode-CS-LaunchJson-Console
             "console": "internalConsole",
             "stopAtEntry": false

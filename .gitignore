@@ -4,7 +4,12 @@ data/leipzig300k.txt
 algorithms/triplets/triplets/bin/Debug/netcoreapp3.1/triplets.dll
 algorithms/triplets/triplets/bin/Debug/netcoreapp3.1/triplets.exe
 algorithms/triplets/triplets/obj/Debug/netcoreapp3.1/triplets.csprojAssemblyReference.cache
-algorithms/triplets/triplets/obj/Debug/netcoreapp3.1/triplets.dll
+algorithms/triplets/triplets/obj/*
+algorithms/stacks/obj/*
+algorithms/stacks/bin/*
+algorithms/lists/obj/*
+algorithms/stacks/bin/*
+algorithms/tests/bin/*
 algorithms/arrays/arrays/obj/arrays.csproj.nuget.cache
 algorithms/arrays/arrays/obj/arrays.csproj.nuget.dgspec.json
 algorithms/arrays/arrays/obj/arrays.csproj.nuget.g.props
@@ -238,3 +243,4 @@ algorithms/triplets/triplets/bin/Debug/netcoreapp3.1/triplets.pdb
 algorithms/triplets/triplets/bin/Debug/netcoreapp3.1/triplets.runtimeconfig.dev.json
 algorithms/triplets/triplets/obj/project.assets.json
 algorithms/triplets/triplets/obj/triplets.csproj.nuget.cache
+algorithms/stacks/bin/Debug/netcoreapp3.1/stacks.runtimeconfig.dev.json

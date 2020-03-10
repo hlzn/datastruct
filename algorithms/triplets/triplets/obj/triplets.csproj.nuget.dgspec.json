@@ -13,6 +13,9 @@
         "packagesPath": "C:\\Users\\hugo.lozano\\.nuget\\packages\\",
         "outputPath": "C:\\Dev\\Lab\\dotnet\\datastruct\\algorithms\\triplets\\triplets\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\hugo.lozano\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"

@@ -6,8 +6,8 @@ namespace tests
     {
         static void Main(string[] args)
         {
-            SortingTests t = new SortingTests();
-            t.BubbleSort_ValidInput_SortedInput();
+            // SortingTests t = new SortingTests();
+            // t.BubbleSort_ValidInput_SortedInput();
         }
     }
 }
