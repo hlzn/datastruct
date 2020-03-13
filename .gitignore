@@ -7,6 +7,14 @@ algorithms/triplets/triplets/obj/Debug/netcoreapp3.1/triplets.csprojAssemblyRefe
 algorithms/triplets/triplets/obj/*
 algorithms/stacks/obj/*
 algorithms/stacks/bin/*
+algorithms/queue/obj/*
+algorithms/queue/bin/*
+algorithms/hashTables/obj/*
+algorithms/hashTables/bin/*
+algorithms/linearSearch/obj/*
+algorithms/linearSearch/bin/*
+algorithms/symbolTables/obj/*
+algorithms/symbolTables/bin/*
 algorithms/lists/obj/*
 algorithms/stacks/bin/*
 algorithms/tests/bin/*
@@ -244,3 +252,5 @@ algorithms/triplets/triplets/bin/Debug/netcoreapp3.1/triplets.runtimeconfig.dev.
 algorithms/triplets/triplets/obj/project.assets.json
 algorithms/triplets/triplets/obj/triplets.csproj.nuget.cache
 algorithms/stacks/bin/Debug/netcoreapp3.1/stacks.runtimeconfig.dev.json
+algorithms/queue/bin/Debug/netcoreapp3.1/queue.deps.json
+algorithms/hashTables/bin/Debug/netcoreapp3.1/hashTables.pdb

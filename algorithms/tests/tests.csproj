@@ -20,6 +20,8 @@
     <ProjectReference Include="..\sorting\sorting.csproj" />
     <ProjectReference Include="..\lists\lists.csproj" />
     <ProjectReference Include="..\stacks\stacks.csproj" />
+    <ProjectReference Include="..\queue\queue.csproj" />
+    <ProjectReference Include="..\linearSearch\linearSearch.csproj" />
   </ItemGroup>
 
 </Project>
