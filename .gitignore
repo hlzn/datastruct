@@ -254,3 +254,5 @@ algorithms/triplets/triplets/obj/triplets.csproj.nuget.cache
 algorithms/stacks/bin/Debug/netcoreapp3.1/stacks.runtimeconfig.dev.json
 algorithms/queue/bin/Debug/netcoreapp3.1/queue.deps.json
 algorithms/hashTables/bin/Debug/netcoreapp3.1/hashTables.pdb
+algorithms/trees/obj/*
+algorithms/trees/bin/*
