@@ -6,8 +6,10 @@ namespace sorting
     {
         static void Main(string[] args)
         {
-            int[] test = { 2, 5, 1, 4, 6, 11, 3 };
-            Merging.Merge(test);
+            int[] test = { 22, 31, 43, 1, 4, 78, 54, 23, 87, 44, 32, 42, 15 };
+            //int[] test = { 9, 2, 6, 4, 3, 5, 1 };
+            myQuickSorting2.quicksort(test);
+            Console.ReadLine();
         }
     }
 }

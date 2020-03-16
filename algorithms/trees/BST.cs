@@ -14,7 +14,7 @@ namespace trees
             _root = Remove(_root, value);
         }
 
-        public void Remove(TreeNode<T> subtreeRoot, T value)
+        public TreeNode<T> Remove(TreeNode<T> subtreeRoot, T value)
         {
             if (subtreeRoot == null)
             {

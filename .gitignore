@@ -256,3 +256,5 @@ algorithms/queue/bin/Debug/netcoreapp3.1/queue.deps.json
 algorithms/hashTables/bin/Debug/netcoreapp3.1/hashTables.pdb
 algorithms/trees/obj/*
 algorithms/trees/bin/*
+algorithms/examples/obj/*
+algorithms/examples/bin/*
