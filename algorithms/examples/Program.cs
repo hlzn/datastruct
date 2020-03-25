@@ -20,6 +20,8 @@ namespace examples
 
         static void Main(string[] args)
         {
+            
+
             iceCreamExample exmp = new iceCreamExample();
             exmp.start();
             Console.ReadLine();
